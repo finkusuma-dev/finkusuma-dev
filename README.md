@@ -8,13 +8,13 @@ As I learn, I will be publishing projects to my GitHub repositories. I may also 
 I hope it will be beneficial for other web development students as well.
 
 - Github repositories: https://github.com/finkusuma-dev.
-- Currently learning:
-  - Responsive web design & development with HTML, CSS, and SASS.  
+- Currently learning:  
+  📙  Responsive web design & development with HTML, CSS, and SASS.  
     (Additionally, I am also learning graphic design for the web. I truly enjoy seeing those amazingly designed websites that are aesthetically pleasing.
-    And how everything is put together to create visually appealing online experiences.)
-  - Languages: Javascript and Typescript.
-  - Frontend frameworks: React, Svelte.
-  - Backend framework: NodeJs.
+    And how everything is put together to create visually appealing online experiences.)  
+  📙 Languages: Javascript and Typescript.  
+  📙 Frontend frameworks: React, Svelte.  
+  📙 Backend framework: NodeJs.  
     
 ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
