@@ -14,7 +14,7 @@
 
 ## Shared Notion Pages
 
-This is my [Shared Pages](https://fin-k-dev.notion.site/Shared-Pages-2aa95644cf66488190e719e7aaa44af5?pvs=4), containing what I've learned from free courses like FreeCodeCamp, React.dev, and more.
+This is my [Shared Notion Pages](https://fin-k-dev.notion.site/Shared-Pages-2aa95644cf66488190e719e7aaa44af5?pvs=4), containing what I've learned from free courses like FreeCodeCamp, React.dev, and more.
 
 - Git: [https://fin-k-dev.notion.site/git-9905e88781f1429cbf416427e32db2a2?pvs=4](https://www.notion.so/git-9905e88781f1429cbf416427e32db2a2?pvs=21)
 - Javascript: [https://fin-k-dev.notion.site/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5?pvs=4](https://www.notion.so/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5?pvs=21)
