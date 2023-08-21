@@ -4,7 +4,7 @@
 
 - Github repositories: [https://github.com/finkusuma-dev](https://github.com/finkusuma-dev).
 
-## Currently learning:
+## Currently learning
 
 📙 Responsive web design & development with HTML, CSS, and SASS.  
  (Additionally, I am also learning graphic design for the web. I truly enjoy seeing those amazingly designed websites that are aesthetically pleasing. And how everything is put together to create appealing online experiences.)  
