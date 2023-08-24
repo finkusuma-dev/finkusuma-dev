@@ -8,9 +8,9 @@
 
 📙 Responsive web design & development with HTML, CSS, and SASS.  
  (Additionally, I am also learning graphic design for the web. I truly enjoy seeing those amazingly designed websites that are aesthetically pleasing. And how everything is put together to create appealing online experiences.)  
- 📙 Languages: Javascript and Typescript.  
- 📙 Frontend frameworks: React, Svelte.  
- 📙 Backend framework: NodeJs.
+📙 Languages: Javascript and Typescript.  
+📙 Frontend frameworks: React, Svelte.  
+📙 Backend framework: NodeJs.
 
 ## Shared Notion Pages
 
