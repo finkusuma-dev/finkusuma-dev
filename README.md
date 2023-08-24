@@ -14,16 +14,16 @@
 
 ## Shared Notion Pages
 
-This is my [Shared Notion Pages](https://fin-k-dev.notion.site/Shared-Pages-2aa95644cf66488190e719e7aaa44af5?pvs=4), containing what I've learned from free courses like FreeCodeCamp, React.dev, and more.
+This is my [Shared Notion Pages](https://www.notion.so/fin-k-dev/Shared-Pages-2aa95644cf66488190e719e7aaa44af5), containing what I've learned from free courses like FreeCodeCamp, React.dev, and more.
 
-- Git: [https://fin-k-dev.notion.site/git-9905e88781f1429cbf416427e32db2a2?pvs=4](https://www.notion.so/git-9905e88781f1429cbf416427e32db2a2?pvs=21)
-- Javascript: [https://fin-k-dev.notion.site/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5?pvs=4](https://www.notion.so/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5?pvs=21)
-- Typescript: [https://fin-k-dev.notion.site/Typescript-b4cf60d222e14f13a3ec4199efd7a664?pvs=4](https://www.notion.so/Typescript-b4cf60d222e14f13a3ec4199efd7a664?pvs=21)
+- Git: [https://fin-k-dev.notion.site/git-9905e88781f1429cbf416427e32db2a2?pvs=4](https://www.notion.so/fin-k-dev/git-9905e88781f1429cbf416427e32db2a2)
+- Javascript: [https://fin-k-dev.notion.site/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5?pvs=4](https://www.notion.so/fin-k-dev/Javascript-Notes-276178fc4b1d4ea0ab3f525afe6041c5)
+- Typescript: [https://fin-k-dev.notion.site/Typescript-b4cf60d222e14f13a3ec4199efd7a664?pvs=4](https://www.notion.so/fin-k-dev/Typescript-b4cf60d222e14f13a3ec4199efd7a664)
 - React
-  - [https://fin-k-dev.notion.site/React-beta-reactjs-org-dc3d1fc517e741e6b2b15c13b0d7ccf5?pvs=4](https://www.notion.so/React-beta-reactjs-org-dc3d1fc517e741e6b2b15c13b0d7ccf5?pvs=21)
-  - [https://fin-k-dev.notion.site/React-Freecodecamp-1a9c3ee65a764448b0e471c5dac26bb3?pvs=4](https://www.notion.so/React-Freecodecamp-1a9c3ee65a764448b0e471c5dac26bb3?pvs=21)
-- Svelte
-  - [https://fin-k-dev.notion.site/Svelte-9465310fa44b4192870633573f7e4fed?pvs=4](https://www.notion.so/Svelte-9465310fa44b4192870633573f7e4fed?pvs=21)
+  - [https://fin-k-dev.notion.site/React-react-dev-dc3d1fc517e741e6b2b15c13b0d7ccf5](https://www.notion.so/fin-k-dev/React-react-dev-dc3d1fc517e741e6b2b15c13b0d7ccf5)
+  - [https://fin-k-dev.notion.site/React-Freecodecamp-1a9c3ee65a764448b0e471c5dac26bb3?pvs=4](https://www.notion.so/fin-k-dev/React-Freecodecamp-1a9c3ee65a764448b0e471c5dac26bb3)
+- Svelte: [https://fin-k-dev.notion.site/Svelte-9465310fa44b4192870633573f7e4fed?pvs=4](https://www.notion.so/fin-k-dev/Svelte-9465310fa44b4192870633573f7e4fed)
+- Markdown: [https://www.notion.so/fin-k-dev/Markdown-a89478cdd99f4657bbb810c0d6e66e2c](https://www.notion.so/fin-k-dev/Markdown-a89478cdd99f4657bbb810c0d6e66e2c)
 
 ---
 
