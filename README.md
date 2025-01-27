@@ -7,7 +7,7 @@
 ## Currently learning
 
 📙 Responsive web design & development with HTML, CSS, and SASS.  
- (Additionally, I am also learning graphic design for the web. I truly enjoy seeing those amazingly designed websites that are aesthetically pleasing. And how everything is put together to create appealing online experiences.)  
+ (Additionally, I am also learning graphic design for the web. I truly enjoy seeing those amazingly designed websites that looks beautiful and aesthetic. And how everything is put together to create super really nice experiences.)  
 📙 Languages: Javascript and Typescript.  
 📙 Frontend frameworks: React, Svelte.  
 📙 Backend framework: NodeJs.
@@ -38,6 +38,7 @@ This is my [Shared Notion Pages](https://www.notion.so/fin-k-dev/Shared-Pages-2a
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-3b3157.svg?style=for-the-badge&logo=astro&logoColor=FF7E33)
 
 <!---
 finkusuma-dev/finkusuma-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
